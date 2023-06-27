@@ -1,0 +1,6 @@
+Flask
+ibm_db
+python-dotenv
+Jinja2
+flask_session
+datetime
